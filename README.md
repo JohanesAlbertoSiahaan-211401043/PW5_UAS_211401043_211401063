@@ -9,6 +9,8 @@ Persyaratan Wajib:
 - Login & Logout (✓)
 - CRUD (✓)
 
+## Link Youtube : https://youtu.be/xFLMgNToxGs
+
 ## Screenshot
 
 ### Login Page
